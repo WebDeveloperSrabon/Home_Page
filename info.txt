@@ -1,0 +1,3 @@
+.d-flex
+.justify_content_space_around
+.aling_item_center
